@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-34-248-releases</name>
-        <url>http://34.201.103.174:8082/artifactory/rohith-repo</url>
+        <url>http://52.91.56.49:8082/artifactory/rohith-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>ip-172-31-34-248-snapshots</name>
-        <url>http://34.201.103.174:8082/artifactory/rohith-repo</url>
+        <url>http://52.91.56.49:8082/artifactory/rohith-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
